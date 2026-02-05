@@ -8,10 +8,12 @@ if you don't install it via the microsoft store
 
 To use this project you fist have to install customtkinter. 
 To install customtkinter open powershell and paste this in powershell
+
 ```bash
 pip install customtkinter
 ```
-than to run the program use this command in powershell
+than to run the program download the code 
+and use this command in powershell
 
 ```bash
 python physics_engine.py
